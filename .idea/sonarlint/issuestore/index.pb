@@ -7,3 +7,5 @@ X
 +src/main/java/com/basictest/Calculator.java,c\0\c0855f08260af17d36ab75368ef5d5097215ceb1
 _
 /src/test/java/com/basictest/CalculatorTest.java,3\f\3febeb80728d78e879df868381d58d2e3693ebed
+X
+(src/main/java/com/basictest/Testing.java,9\7\974c6bf21747e90a8f39e656a40ca87c96137686
